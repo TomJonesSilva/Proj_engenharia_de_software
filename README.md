@@ -12,3 +12,4 @@
  * Daniel - daniel.ocleao@ufrpe.br
 
 ## Descrição geral do projeto  
+O projeto ocnsiste em um sistema de gerencimaneto de jogos de RPG, onde se pode criar fichas, marca horarios de reuniões da avisos,etc
